@@ -2,10 +2,12 @@
 
 Este projeto consiste na criação de um eBook sobre **Java com foco no Spring Boot e seus Endpoints**, utilizando tecnologias de inteligência artificial para gerar conteúdo e organizar o material de forma didática.
 
+[ebook java.pdf](https://github.com/viniciusoliveira-27/Projeto-Ebook-com-IA/blob/9481cb50f1a04971b790db2f2dcf51832885563d/ebook%20java.pdf)
+
 ## 🚀 **Tecnologias Utilizadas**
 
 - 🤖 **ChatGPT**: Utilizado para gerar e estruturar o conteúdo técnico e exemplos de código em Java.
-- 💻 **Microsoft Copilot**: Assistiu na criação e edição de partes do conteúdo.
+- 💻 **Microsoft Copilot**: Utilizado na criação e edição de Imagens geradas por Ia.
 - 🖼️ **PowerPoint**: Usado para formatar e ilustrar o conteúdo do eBook.
 
 ## 📝 **Prompts Utilizados**
